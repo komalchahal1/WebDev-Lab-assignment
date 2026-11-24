@@ -1,4 +1,7 @@
 Student Expense Tracker
+by Komal 
+URN: E26B03F2722
+Section: A
 
 1. Project Description
 
